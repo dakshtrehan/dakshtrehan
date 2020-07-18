@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Daksh</h1>
+<h3 align="center">Data Science Enthusiast from India</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
 
-<!--
-**dakshtrehan/dakshtrehan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **Machine Transliteration**
 
-Here are some ideas to get you started:
+- 👯 I’m looking to collaborate on [Sudoku Solver ](https://github.com/dakshtrehan/Sudoku-Solver)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 All of my projects are available at [www.dakshtrehan.com](www.dakshtrehan.com)
+
+- 📝 I regulary write articles on [www.medium.com/@dakshtrehan](www.medium.com/@dakshtrehan)
+
+- 💬 Ask me about **Deep Learning, Machine Learning, Python**
+
+- 📫 How to reach me **daksh.trehan@hotmail.com**
+
+
+<p align="center">
+<a href="https://twitter.com/@dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@dakshtrehan" height="20" width="20" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dakshtrehan" height="20" width="20" /></a>
+<a href="https://instagram.com/@_daksh_trehan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@_daksh_trehan_" height="20" width="20" /></a>
+</p>
