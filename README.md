@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **daksh.trehan@hotmail.com**
 
-- ⚡ Fun fact **I publish article weekly (with probability 0.3)**
+- ⚡ Fun fact **I publish articles weekly (with probability 0.3)**
 
 
 <p align="center">
