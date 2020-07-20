@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
 
-- 📫 How to reach me **daksh.trehan@hotmail.com**
+- 📫 You can reach me at **daksh.trehan@hotmail.com**
 
 - ⚡ Fun fact **I publish articles weekly (with probability 0.3)**
 
