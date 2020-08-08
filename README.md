@@ -10,6 +10,15 @@
 - 📫 You can reach me at **daksh.trehan@hotmail.com**
 - ⚡ Fun fact **I publish articles weekly (with probability 0.3)**
 
+```python
+def skills_of_daksh():
+  languages_with_proficiency = {'Python': 'Intermediate', 'SQL': 'Intermediate', 'Content Writing': 'Intermidiate', 'Tableau': 'Beginner'}
+  tools = ['numpy', 'pandas', 'sklearn', 'matplotlib', 'seaborn', 'keras', 'nlp']
+  publications_featured_in = {"TowardsDataScience":5, "TowardsAI":11, "Analytics Vidhya":!, "The Startup":1, "DataDrivenInvestor":1, "Gitconnected":1}
+  active_blogger = True
+  return ∞
+```
+
 
 <p align="center">
 <a href="https://fb.com/daksh.trehan.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daksh.trehan.9" height="20" width="20" /></a>
