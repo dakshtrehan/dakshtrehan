@@ -3,11 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
 
 - 🔭 I’m currently working on **Machine Transliteration**
-
 - 👯 I’m looking to collaborate on [Sudoku Solver ](https://github.com/dakshtrehan/Sudoku-Solver)
-
 - 👨‍💻 All of my projects are available at [www.dakshtrehan.com](www.dakshtrehan.com)
-
 - 📝 I regulary write articles on [www.medium.com/@dakshtrehan](www.medium.com/@dakshtrehan)
 
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
