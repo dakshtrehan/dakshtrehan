@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daksh</h1>
-<h3 align="center">Data Science Enthusiast from India</h3>
+<img align='right' src="https://s7.gifyu.com/images/WhatsApp-Image-2020-07-14-at-11.34.49-1.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
 
 - 🔭 I’m currently working on **Machine Transliteration**
