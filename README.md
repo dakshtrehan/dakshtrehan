@@ -27,6 +27,6 @@ def skills_of_daksh():
 <a href="https://linkedin.com/in/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dakshtrehan" height="20" width="20" /></a>
 <a href="https://medium.com/@dakshtrehan" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_2_glyph_svg-512.png" alt="@dakshtrehan" height="20" width="20" /></a>
 <a href="https://kaggle.com/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dakshtrehan" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/dakshtrehan" target="blank"><img align="center" src="https://commons.wikimedia.org/wiki/File:Hackerrank_meaningful_logo.svg" alt="dakshtrehan" height="20" width="20" /></a>
+<a href="https://www.hackerrank.com/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dakshtrehan" height="20" width="20" /></a>
 
 </p>
