@@ -19,7 +19,6 @@ def skills_of_daksh():
   return ∞
 ```
 <img align="right" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dakshtrehan&show_icons=true&hide=prs,issues,contribs&count_private=true&theme=radical" />
-<img align="left" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dakshtrehan" />
 
 
 ### Connect with me:
