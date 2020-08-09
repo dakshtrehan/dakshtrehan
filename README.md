@@ -20,13 +20,17 @@ def skills_of_daksh():
 ```
 
 
-<p align="center">
-<a href="https://fb.com/daksh.trehan.9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="daksh.trehan.9" height="20" width="20" /></a>
-<a href="https://twitter.com/@dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@dakshtrehan" height="20" width="20" /></a>
-<a href="https://instagram.com/_daksh_trehan_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="/@_daksh_trehan_" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="www.linkedin.com/in/dakshtrehan" height="20" width="20" /></a>
-<a href="https://medium.com/@dakshtrehan" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_2_glyph_svg-512.png" alt="@dakshtrehan" height="20" width="20" /></a>
-<a href="https://kaggle.com/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="dakshtrehan" height="20" width="20" /></a>
-<a href="https://www.hackerrank.com/dakshtrehan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dakshtrehan" height="20" width="20" /></a>
+### Connect with me:
+
+[<img align="left" alt="Akshat Gupta" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.dakshtrehan.com)
+[<img align="left" alt="Akshat Gupta | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dakshtrehan)
+[<img align="left" alt="Akshat Gupta | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dakshtrehan/)
+[<img align="left" alt="Akshat Gupta | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_daksh_trehan_/)
+[<img align="left" alt="Akshat Gupta | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/dakshtrehan/)
+
+<br />
+  
+  
+<img align="left" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dakshtrehan&show_icons=true&hide_border=true" />
 
 </p>
