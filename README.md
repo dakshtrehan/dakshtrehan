@@ -12,7 +12,7 @@
 
 ```python
 def skills_of_daksh():
-  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Intermidiate','Tableau':'Beginner'}
+  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Intermediate','Tableau':'Beginner'}
   tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras', 'nlp']
   publications_featured_in = ["TowardsDataScience", "TowardsAI", "The Startup", "DataDrivenInvestor", "Gitconnected"]
   active_blogger = True
