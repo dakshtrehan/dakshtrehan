@@ -26,10 +26,10 @@ def skills_of_daksh():
 ### Connect with me:
 
 [<img align="left" alt="Daksh Trehan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.dakshtrehan.com)
-[<img align="left" alt="Daksh Trehan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dakshtrehan)
 [<img align="left" alt="Daksh Trehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dakshtrehan/)
 [<img align="left" alt="Daksh Trehan | Medium" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_2_glyph_svg-512.png"/>](https://medium.com/@dakshtrehan)
 [<img align="left" alt="Daksh Trehan | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dakshtrehan"/>](https://www.hackerrank.com/dakshtrehan)
 [<img align="left" alt="Daksh Trehan | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/dakshtrehan/)
+[<img align="left" alt="Daksh Trehan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dakshtrehan)
 [<img align="left" alt="Daksh Trehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_daksh_trehan_/)
 </p>
