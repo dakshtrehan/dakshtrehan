@@ -12,10 +12,15 @@
 
 ```python
 def skills_of_daksh():
+
   tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Intermediate','Tableau':'Beginner'}
+  
   tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras','tensorflow','pandas-profiling']
+  
   publications_featured_in = ["TowardsDataScience", "TowardsAI", "The Startup", "DataDrivenInvestor", "Gitconnected"]
+  
   active_blogger = True
+  
   return ∞
 ```
 <img align="right" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dakshtrehan&show_icons=true&&hide=issues,contribscount_private=true&theme=buefy" />
