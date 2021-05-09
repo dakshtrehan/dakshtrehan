@@ -3,17 +3,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
 
 - 🔭 I’m currently working at [**Apisero Inc.**](www.apisero.com)
-- 👯 I also serve as an Editorial Associate at [**TowardsAI**](pub.towardsai.net)
+- 👯 I serve as an Editorial Associate at [**TowardsAI**](pub.towardsai.net)
 - 👨‍💻 You can join me at [**www.dakshtrehan.com**](https://www.dakshtrehan.com)
-- 📝 I regulary write articles on [**www.medium.com/@dakshtrehan**](https://www.medium.com/@dakshtrehan)
-- 💬 Ask me about **Deep Learning, Machine Learning, Python**
+- 📝 You can find my articles at [**www.dakshtrehan.medium.com**](https://www.medium.com/@dakshtrehan)
 - 📫 You can reach me at **daksh.trehan@hotmail.com**
+- 💬 Ask me about **Deep Learning, Machine Learning, Python**
 - ⚡ Fun fact **I publish articles weekly (with probability 0.3)**
 
 ```python
 def skills_of_daksh():
   tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Intermediate','Tableau':'Beginner'}
-  tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras', 'nlp']
+  tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras','tensorflow','pandas-profiling']
   publications_featured_in = ["TowardsDataScience", "TowardsAI", "The Startup", "DataDrivenInvestor", "Gitconnected"]
   active_blogger = True
   return ∞
