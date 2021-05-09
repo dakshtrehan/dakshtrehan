@@ -2,8 +2,8 @@
 <img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
 
-- 🔭 I’m currently working at **Apisero Inc.**
-- 👯 I’m an Editorial Associate at [TowardsAI](pub.towardsai.net)
+- 🔭 I’m currently working at [**Apisero Inc.**](www.apisero.com)
+- 👯 I also serve as an Editorial Associate at [TowardsAI](pub.towardsai.net)
 - 👨‍💻 You can join me at [www.dakshtrehan.com](https://www.dakshtrehan.com)
 - 📝 I regulary write articles on [www.medium.com/@dakshtrehan](https://www.medium.com/@dakshtrehan)
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
