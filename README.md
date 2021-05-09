@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
 
 - 🔭 I’m currently working at [**Apisero Inc.**](www.apisero.com)
-- 👯 I also serve as an Editorial Associate at [TowardsAI](pub.towardsai.net)
-- 👨‍💻 You can join me at [www.dakshtrehan.com](https://www.dakshtrehan.com)
-- 📝 I regulary write articles on [www.medium.com/@dakshtrehan](https://www.medium.com/@dakshtrehan)
+- 👯 I also serve as an Editorial Associate at [**TowardsAI**](pub.towardsai.net)
+- 👨‍💻 You can join me at [**www.dakshtrehan.com**](https://www.dakshtrehan.com)
+- 📝 I regulary write articles on [**www.medium.com/@dakshtrehan**](https://www.medium.com/@dakshtrehan)
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
 - 📫 You can reach me at **daksh.trehan@hotmail.com**
 - ⚡ Fun fact **I publish articles weekly (with probability 0.3)**
