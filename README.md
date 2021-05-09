@@ -14,11 +14,8 @@
 def skills_of_daksh():
 
   tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Intermediate','Tableau':'Beginner'}
-  
   tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras','tensorflow','pandas-profiling']
-  
   publications_featured_in = ["TowardsDataScience", "TowardsAI", "The Startup", "DataDrivenInvestor", "Gitconnected"]
-  
   active_blogger = True
   
   return ∞
