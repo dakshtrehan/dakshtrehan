@@ -5,6 +5,7 @@
 - 🔭 I’m currently working at [**Apisero Inc.**](www.apisero.com)
 - 👯 I serve as an Editorial Associate at [**TowardsAI**](pub.towardsai.net)
 - 👨‍💻 You can join me at [**www.dakshtrehan.com**](https://www.dakshtrehan.com)
+- 📧 Join my [**Weekly Tech Newsletter**](https://mailchi.mp/b535943b5fff/daksh-trehan-weekly-newsletter)
 - 📝 You can find my articles at [**www.dakshtrehan.medium.com**](https://www.medium.com/@dakshtrehan)
 - 📫 You can reach me at **daksh.trehan@hotmail.com**
 - 💬 Ask me about **Deep Learning, Machine Learning, Python**
