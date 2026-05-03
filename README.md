@@ -22,10 +22,10 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 ### Stack and platforms
 
-- **AI systems: ** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API · Abacus SDK · AbacusAI 
-- **ML and DS: ** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP · LLM
-- **Data: ** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale · Databricks
-- **Engineering: ** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
+- **AI systems:** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API · Abacus SDK · AbacusAI 
+- **ML and DS:** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP · LLM
+- **Data:** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale · Databricks
+- **Engineering:** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
 
 ---
 
