@@ -14,7 +14,7 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 🔬 **[PromptDiff](https://github.com/dakshtrehan/PromptDiff)** — Side-by-side prompt versioning and regression tracking for LLM engineers. Token-level diff with output comparison across models.
 
-🎵 **[SWAR]** — AI music composition studio with an Artist Skill Library. Bilingual lyric generation, Tone.js melodies, Suno integration.
+🎵 **SWAR** — AI music composition studio with an Artist Skill Library. Bilingual lyric generation, Tone.js melodies, Suno integration.
 
 📈 **AI Paper Trading System** — Automated daily signals across 162 stocks via the Anthropic API, virtual ₹10L portfolio, GitHub Actions running every trading day.
 
@@ -22,10 +22,10 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 ### Stack and platforms
 
-**AI systems** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API
-**ML and DS** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP
-**Data** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale
-**Engineering** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
+- **AI systems** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API
+- **ML and DS** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP
+- **Data** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale
+- **Engineering** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
 
 ---
 
