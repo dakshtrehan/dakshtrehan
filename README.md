@@ -1,36 +1,56 @@
-<h1 align="center">Hi 👋, I'm Daksh</h1>
-<img align='right' src="https://i.imgur.com/OTKgDSt.gif" width="215">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dakshterhan" alt="dakshterhan" /> </p>
+# Daksh Trehan
 
-- 🔭 I’m currently working at [**Apisero Inc.**](www.apisero.com)
-- 👯 I serve as an Editorial Associate at [**TowardsAI**](pub.towardsai.net)
-- 👨‍💻 You can join me at [**www.dakshtrehan.com**](https://www.dakshtrehan.com)
-- 📧 Join my [**Weekly Tech Newsletter**](https://mailchi.mp/b535943b5fff/daksh-trehan-weekly-newsletter)
-- 📝 You can find my articles at [**www.dakshtrehan.medium.com**](https://www.medium.com/@dakshtrehan)
-- 📫 You can reach me at **daksh.trehan@hotmail.com**
-- 💬 Ask me about **Deep Learning, Machine Learning, Python**
-- ⚡ Fun fact **I publish articles weekly (with probability 0.3)**
+Forward Deployed Engineer at [Abacus.AI](https://abacus.ai). Previously 5 years at kipi.ai shipping production AI for ConocoPhillips, Gameday Men's Health, Germania Insurance, and Blue Yonder.
 
-```python
-def skills_of_daksh():
+I build AI systems that hold up under regulated-industry scrutiny: RAG pipelines that compliance teams can sign off on, document AI that scales to 2,000+ PDFs, fraud detection that runs on 10M+ claims with full SHAP explainability.
 
-  tech_with_proficiency={'Python':'Intermediate','SQL':'Intermediate','Content Writing':'Intermediate','Tableau':'Beginner'}
-  tools = ['numpy','pandas','sklearn','matplotlib','seaborn','keras','tensorflow','pandas-profiling']
-  publications_featured_in = ["TowardsDataScience", "TowardsAI", "The Startup", "DataDrivenInvestor", "Gitconnected"]
-  active_blogger = True
-  
-  return ∞
-```
-<img align="right" alt="Daksh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dakshtrehan&show_icons=true&&hide=issues,contribscount_private=true&theme=buefy" />
+When the work is interesting and the constraints are real, I write about it. 50+ articles across [Towards Data Science](https://medium.com/@dakshtrehan), TowardsAI, and DataDrivenInvestor with 100K+ collective reads.
 
+---
 
-### Connect with me:
+### What I'm shipping right now
 
-[<img align="left" alt="Daksh Trehan" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.dakshtrehan.com)
-[<img align="left" alt="Daksh Trehan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/dakshtrehan/)
-[<img align="left" alt="Daksh Trehan | Medium" width="22px" src="https://cdn3.iconfinder.com/data/icons/social-media-black-white-2/512/BW_Medium_2_glyph_svg-512.png"/>](https://medium.com/@dakshtrehan)
-[<img align="left" alt="Daksh Trehan | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="dakshtrehan"/>](https://www.hackerrank.com/dakshtrehan)
-[<img align="left" alt="Daksh Trehan | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/kaggle.svg" />](https://www.kaggle.com/dakshtrehan/)
-[<img align="left" alt="Daksh Trehan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/dakshtrehan)
-[<img align="left" alt="Daksh Trehan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/_daksh_trehan_/)
+🛡️ **[ragcompliance](https://github.com/dakshtrehan/ragcompliance)** — Drop-in audit-trail middleware for LangChain and LlamaIndex RAG pipelines. SHA-256-signed audit logs, opt-in PII / PHI redaction, SOC 2 evidence export. MIT licensed. 171 tests passing. [PyPI](https://pypi.org/project/ragcompliance/)
+
+🔬 **[PromptDiff](https://github.com/dakshtrehan/PromptDiff)** — Side-by-side prompt versioning and regression tracking for LLM engineers. Token-level diff with output comparison across models.
+
+🎵 **[SWAR](https://github.com/dakshtrehan/SWAR)** — AI music composition studio with an Artist Skill Library. Bilingual lyric generation, Tone.js melodies, Suno integration.
+
+📈 **AI Paper Trading System** — Automated daily signals across 162 stocks via the Anthropic API, virtual ₹10L portfolio, GitHub Actions running every trading day.
+
+---
+
+### Stack and platforms
+
+**AI systems** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API
+**ML and DS** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP
+**Data** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale
+**Engineering** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
+
+---
+
+### Recognition
+
+- **6× Snowflake certified** (incl. SnowPro Advanced Data Scientist, Architect, Data Engineer, GenAI Specialty)
+- **Technical reviewer**, *TinyML Cookbook* and *Machine Learning Engineering with Python* (Packt Publishing)
+- **M.Tech Data Science**, BITS Pilani — thesis on Smart Search using SBERT and ANNOY
+
+---
+
+### Where to find me
+
+- 🌐 [dakshtrehan.com](https://www.dakshtrehan.com) — portfolio
+- ✍️ [Medium](https://medium.com/@dakshtrehan) — long-form writing
+- 💼 [LinkedIn](https://www.linkedin.com/in/dakshtrehan/)
+- 🐦 [X / @DakshTrehan](https://twitter.com/DakshTrehan)
+- 📧 daksh.trehan@hotmail.com
+
+---
+
+<p align="center">
+  <a href="https://github.com/dakshtrehan">
+    <img src="https://github-readme-stats.vercel.app/api?username=dakshtrehan&show_icons=true&hide=issues&count_private=true&theme=transparent&hide_border=true&title_color=3a6846&icon_color=3a6846" alt="Daksh's GitHub stats" />
+  </a>
 </p>
+
+<p align="center"><sub>Open to interesting work. Especially if it involves regulated-industry AI, compliance tooling, or anything where the constraints are real and the data is messy.</sub></p>
