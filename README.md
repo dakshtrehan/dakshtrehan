@@ -1,6 +1,6 @@
-# Daksh Trehan
+# [Daksh Trehan](https://linkedin.com/in/dakshtrehan)
 
-Forward Deployed Engineer at [Abacus.AI](https://abacus.ai). Previously 5 years at kipi.ai shipping production AI for ConocoPhillips, Gameday Men's Health, Germania Insurance, and Blue Yonder.
+Forward Deployed Engineer at [Abacus.AI](https://abacus.ai). Previously 5 years at [kipi.ai](https://kipi.ai) shipping production AI for ConocoPhillips, Gameday Men's Health, Germania Insurance, and Blue Yonder.
 
 I build AI systems that hold up under regulated-industry scrutiny: RAG pipelines that compliance teams can sign off on, document AI that scales to 2,000+ PDFs, fraud detection that runs on 10M+ claims with full SHAP explainability.
 
@@ -14,7 +14,7 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 🔬 **[PromptDiff](https://github.com/dakshtrehan/PromptDiff)** — Side-by-side prompt versioning and regression tracking for LLM engineers. Token-level diff with output comparison across models.
 
-🎵 **[SWAR](https://github.com/dakshtrehan/SWAR)** — AI music composition studio with an Artist Skill Library. Bilingual lyric generation, Tone.js melodies, Suno integration.
+🎵 **[SWAR]** — AI music composition studio with an Artist Skill Library. Bilingual lyric generation, Tone.js melodies, Suno integration.
 
 📈 **AI Paper Trading System** — Automated daily signals across 162 stocks via the Anthropic API, virtual ₹10L portfolio, GitHub Actions running every trading day.
 
