@@ -22,10 +22,10 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 ### Stack and platforms
 
-- **AI systems** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API
-- **ML and DS** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP
-- **Data** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale
-- **Engineering** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
+- **AI systems: ** LangChain · LangGraph · Snowflake Cortex AI · RAG · agentic workflows · Anthropic API · Abacus SDK · AbacusAI 
+- **ML and DS: ** PyTorch · TensorFlow · Scikit-learn · SHAP · ensemble models · NLP · LLM
+- **Data: ** Snowflake (6× certified) · DuckDB · FAISS · Apache Iceberg · ETL pipelines · row-level security at scale · Databricks
+- **Engineering: ** Python · SQL · GitHub Actions · Streamlit · FastAPI · Supabase
 
 ---
 
@@ -47,10 +47,4 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 ---
 
-<p align="center">
-  <a href="https://github.com/dakshtrehan">
-    <img src="https://github-readme-stats.vercel.app/api?username=dakshtrehan&show_icons=true&hide=issues&count_private=true&theme=transparent&hide_border=true&title_color=3a6846&icon_color=3a6846" alt="Daksh's GitHub stats" />
-  </a>
-</p>
-
-<p align="center"><sub>Open to interesting work. Especially if it involves regulated-industry AI, compliance tooling, or anything where the constraints are real and the data is messy.</sub></p>
+<p align="center"><sub>Open to interesting side projects. Especially if it involves regulated-industry AI, compliance tooling, or anything where the constraints are real, and the data is messy.</sub></p>
