@@ -12,7 +12,7 @@ When the work is interesting and the constraints are real, I write about it. 50+
 
 🛡️ **[ragcompliance](https://github.com/dakshtrehan/ragcompliance)** — Drop-in audit-trail middleware for LangChain and LlamaIndex RAG pipelines. SHA-256-signed audit logs, opt-in PII / PHI redaction, SOC 2 evidence export. MIT licensed. 171 tests passing. [PyPI](https://pypi.org/project/ragcompliance/)
 
-🔬 **[PromptDiff](https://github.com/dakshtrehan/PromptDiff)** — Side-by-side prompt versioning and regression tracking for LLM engineers. Token-level diff with output comparison across models.
+🔬 **[PromptDrift](https://github.com/dakshtrehan/promptdrift)** — Side-by-side prompt versioning and regression tracking for LLM engineers. Token-level diff with output comparison across models.
 
 🎵 **SWAR** — AI music composition studio with an Artist Skill Library. Bilingual lyric generation, Tone.js melodies, Suno integration.
 
